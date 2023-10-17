@@ -1,0 +1,11 @@
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\bin\Debug\LinqN.exe.config
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\bin\Debug\LinqN.exe
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\bin\Debug\LinqN.pdb
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.csproj.AssemblyReference.cache
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.csproj.SuggestedBindingRedirects.cache
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.Form1.resources
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.Properties.Resources.resources
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.csproj.GenerateResource.cache
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.csproj.CoreCompileInputs.cache
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.exe
+D:\Лабы\ещё один курс\Средства разработки ПО\6\LinqN\LinqN\obj\Debug\LinqN.pdb

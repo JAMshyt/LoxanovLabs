@@ -1,0 +1,8 @@
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\bin\Debug\LinqCoздaтьXML-дoкyмeнт.exe.config
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\bin\Debug\LinqCoздaтьXML-дoкyмeнт.exe
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\bin\Debug\LinqCoздaтьXML-дoкyмeнт.pdb
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\obj\Debug\LinqCoздaтьXML-дoкyмeнт.csproj.AssemblyReference.cache
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\obj\Debug\LinqCoздaтьXML-дoкyмeнт.csproj.SuggestedBindingRedirects.cache
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\obj\Debug\LinqCoздaтьXML-дoкyмeнт.csproj.CoreCompileInputs.cache
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\obj\Debug\LinqCoздaтьXML-дoкyмeнт.exe
+D:\Лабы\ещё один курс\Средства разработки ПО\5\LinqCoздaтьXML-дoкyмeнт\LinqCoздaтьXML-дoкyмeнт\obj\Debug\LinqCoздaтьXML-дoкyмeнт.pdb
