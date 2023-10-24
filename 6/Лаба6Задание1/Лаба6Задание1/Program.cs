@@ -53,7 +53,7 @@ namespace Лаба6Задание1
                         )
                 )
                 );
-            Документ.Save(@"D:\Лабы\ещё один курс\Средства разработки ПО\6\lab6-1.XML");
+            Документ.Save(@"..\..\lab6-1.XML");
             Console.WriteLine(Документ);
             Console.ReadKey();
         }
