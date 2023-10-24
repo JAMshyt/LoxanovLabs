@@ -1,0 +1,8 @@
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\bin\Debug\lab6_2.exe.config
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\bin\Debug\lab6_2.exe
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\bin\Debug\lab6_2.pdb
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\obj\Debug\lab6_2.csproj.AssemblyReference.cache
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\obj\Debug\lab6_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\obj\Debug\lab6_2.csproj.CoreCompileInputs.cache
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\obj\Debug\lab6_2.exe
+C:\Users\stu-pksp120\Desktop\Щербаков\лаба2\2\lab6_2\lab6_2\obj\Debug\lab6_2.pdb
