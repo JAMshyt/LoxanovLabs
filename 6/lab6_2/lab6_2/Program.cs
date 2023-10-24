@@ -88,7 +88,7 @@ namespace lab6_2
                         )
                 )
                 );
-            Документ.Save(@"..\..\lab6-2.XML");
+            Документ.Save(@"..\..\..\..\lab6-2.XML");
             Console.WriteLine(Документ);
             Console.ReadKey();
         }
