@@ -35,7 +35,7 @@ namespace LinqСоздатьXML_документ
             new XElement("Мобильный_телефон", "+7(495)615-24-41")))
             );
             // Сохранить XML-документ:
-            XMLдокумент.Save(@"D:\Лабы\ещё один курс\Средства разработки ПО\6\lab6.XML");
+            XMLдокумент.Save(@"..\..\lab6.XML");
             Console.WriteLine(XMLдокумент);
             Console.ReadKey();
         }
