@@ -101,7 +101,7 @@ namespace lab6_3
                         )
                 )
                 );
-            Документ.Save(@"..\..\lab6-3.XML");
+            Документ.Save(@"..\..\..\..\lab6-3.XML");
             Console.WriteLine(Документ);
             Console.ReadKey();
         }
